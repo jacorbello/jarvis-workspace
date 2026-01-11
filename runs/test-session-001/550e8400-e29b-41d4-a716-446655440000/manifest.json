@@ -1,0 +1,22 @@
+{
+  "session_id": "test-session-001",
+  "run_id": "550e8400-e29b-41d4-a716-446655440000",
+  "timestamp": "2026-01-11T22:38:46.682343Z",
+  "status": "completed",
+  "user_prompt": "Generate a test deliverable for the new system",
+  "deliverable": {
+    "type": "markdown",
+    "path": "deliverable.md",
+    "summary": "Test deliverable to verify the run bundle creation system.",
+    "supporting_files": []
+  },
+  "context": {
+    "agent": "test-agent",
+    "tools_used": [
+      "create_run_bundle"
+    ]
+  },
+  "metrics": {
+    "duration_ms": 1500
+  }
+}
