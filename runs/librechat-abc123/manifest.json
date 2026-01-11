@@ -1,0 +1,22 @@
+{
+  "session_id": "librechat-abc123",
+  "run_id": "",
+  "timestamp": "2026-01-11T22:49:40.708053Z",
+  "status": "completed",
+  "user_prompt": "Create a deployment blueprint for the new API service",
+  "deliverable": {
+    "type": "plan",
+    "path": "deliverable.md",
+    "summary": "Deployment blueprint for API service with Docker Compose, including rollback plan and monitoring setup.",
+    "supporting_files": []
+  },
+  "context": {
+    "agent": "Jarvis-Router",
+    "tools_used": [
+      "create_run_bundle"
+    ]
+  },
+  "metrics": {
+    "duration_ms": 2500
+  }
+}
