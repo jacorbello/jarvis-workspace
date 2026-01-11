@@ -1,0 +1,23 @@
+{
+  "session_id": "librechat-test-002",
+  "run_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+  "timestamp": "2026-01-11T22:49:58.484906Z",
+  "status": "completed",
+  "user_prompt": "Create a multi-part infrastructure plan",
+  "deliverable": {
+    "type": "plan",
+    "path": "deliverable.md",
+    "summary": "Comprehensive infrastructure migration plan with 4 parts: assessment, design, implementation, and validation.",
+    "supporting_files": []
+  },
+  "context": {
+    "agent": "Jarvis-Router",
+    "tools_used": [
+      "create_run_bundle",
+      "delegate_agent"
+    ]
+  },
+  "metrics": {
+    "duration_ms": 4200
+  }
+}
